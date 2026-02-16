@@ -1,14 +1,18 @@
-# 📈 Strategic Networking Segmentation: Maximizing Engagement on LinkedIn for University Students
+# 📈 Networking Estratégico en LinkedIn: Cómo Maximizar el Engagement para Estudiantes Universitarios.
 
-## 🎯 Business Problem
+## 🎯 Problema de Negocio
 
-Professional networking, understood as a tool for strategically building and cultivating a network of valuable contacts to generate business opportunities, support, and personal growth, has become a key element in the workplace, specifically due to branding and personal branding. In this context, social networks play a fundamental role because they help to achieve, among other benefits, reach and visibility. In the professional world, this is well known and leveraged through the quintessential social network for this purpose: LinkedIn. However, there is not much information about the perception and behavior of university students toward this social network. Given the lack of information to address this issue, a question arises: **How can we segment students based on their online behavior to predict their long-term loyalty to the platform?**. This project transforms behavioral data into **retention strategies**.
+El networking y la marca personal en LinkedIn son vitales para el éxito laboral, pero existe un vacío de información sobre cómo los estudiantes universitarios adoptan estas herramientas. Tras capacitar a un grupo de estudiantes en estrategias de visibilidad profesional, surge el reto de entender su adopción tecnológica.
+Este proyecto utiliza un algoritmo de clustering para responder a la pregunta: 
+**¿Cómo podemos segmentar a los estudiantes según su comportamiento digital para predecir su lealtad a la plataforma y su éxito en la construcción de redes profesionales?**
 
-* **Objetive:** Identify user segments to personalize marketing campaigns
-* **Key KPI:** Retention Rate
+Este proyecto transforma comportamientos en  **Estrategia de Retención**.
 
-## 🧠 Methodology and Solution
-I used a **K-Means Clustering** algorithm to group students according to their level of interaction, connections, and use of the platform.
+* **Objetivo:** Identificar perfiles de usuario para maximizar el desarrollar estrategias de marketing que generen engagement
+* **KPI Impactado:** Tasa de retención
+
+## 🧠 Methodologia
+"Implementación de un algoritmo de K-Means Clustering para segmentar estudiantes según su nivel de interacción, red de contactos y uso estratégico de LinkedIn."
 
 * **Study Population:** University students who received specific training in personal branding and career visibility.
 * **Data Processing:** [Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Scikit-Learn].
