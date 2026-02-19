@@ -4,7 +4,7 @@
 
 El networking y la marca personal en LinkedIn son vitales para el éxito laboral, pero existe un vacío de información sobre cómo los estudiantes universitarios adoptan estas herramientas. Tras capacitar a un grupo de estudiantes en estrategias de visibilidad profesional, surge el reto de entender su adopción tecnológica.
 Este proyecto utiliza un algoritmo de clustering para responder a la pregunta: 
-**¿Cómo podemos segmentar a los estudiantes según su comportamiento digital para predecir su lealtad a la plataforma y su éxito en la construcción de redes profesionales?**
+**¿Cómo podemos segmentar a los estudiantes según su comportamiento digital para diseñar estrategias de marketing paa que generen experiencias personalizadas y aseguren un alto engagement ?**
 
 Este proyecto transforma comportamientos en  **Estrategia de Retención**.
 
