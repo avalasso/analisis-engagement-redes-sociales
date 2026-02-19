@@ -11,32 +11,31 @@ Este proyecto transforma comportamientos en  **Estrategia de Retención**.
 * **Objetivo:** Identificar perfiles de usuario para maximizar el desarrollar estrategias de marketing que generen engagement
 * **KPI Impactado:** Tasa de retención
 
-## 🧠 Methodologia
+## 🧠 Metodologia
 "Implementación de un algoritmo de K-Means Clustering para segmentar estudiantes según su nivel de interacción, red de contactos y uso estratégico de LinkedIn."
 
-* **Study Population:** University students who received specific training in personal branding and career visibility.
-* **Data Processing:** [Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Scikit-Learn].
-* **Validation:** Selection of 'k' using the Silhouette Score method.
+* **Población de Estudio:** Estudiantes universitarios que recibieron formación específica en marca personal y visibilidad profesional.
+* **Procesamiento de Datos:** [Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Scikit-Learn].
+* **Validación:** Selección de 'k' grupos utilizando el método Silhouette Score.
 
-## 👥 Marketing Profiles
-| Student Type| Description | Marketing Strategy |
+## 👥 Perfiles de Marketing
+| Estudiante Tipo| Frase Representativa | Estrategia de Mercadeo |
 | :--- | :--- | :--- |
-| **Strategic Career Builder** |*“I use LinkedIn as a key tool to build my career”* | Mentoring - Recruitment Events |
-| **Exploratory Observer** |"I know LinkedIn exists and what it's for, but I don't know how to unlock its full potential" | Professional Digital Literacy - Clear Examples of Usefulness|
-| **Passive Knower** | *“LinkedIn is important, although I don’t actively use it yet”* | Practical workshops - Incentives for interaction|
+| **Constructor Estrategico** |*“Utilizo LinkedIn como una herramienta clave para construir mi carrera”* | Mentoria - Practicas Universitarias |
+| **Observador Exploratorio** |*"Sé que LinkedIn existe y para qué sirve, pero no sé cómo aprovechar todo su potencial."* | Alfabetización digital profesional - ejemplos claros de utilidad|
+| **Conocedor Pasivo** | *“LinkedIn es importante, aunque todavía no lo uso activamente”* | Talleres prácticos - Incentivos para la interacción|
 
-## 📊 Visualizations
+## 📊 Visualizaciones
 Wordcloud of comments from surveyed students:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
-Students recognize the value of LinkedIn, but only in the long term.
-
-Feature Influence Map
+Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo
+Mapa de variables mas influyentes
 ![Mapa_Influencia de variables](Influence_feature_map.png)
-The features that point in the same direction reveal:
+Las variables (vectores) que apuntan en la misma dirección revelan:
 
-* *First quadrant:* Students for whom exposure and visibility are more important (sometimes twice as important) than their professional development, without implying that the latter is unimportant.
+* *Primer cuadrante:* Estudiantes para quienes la exposición y la visibilidad son más importantes (a veces el doble) que su desarrollo profesional, sin que esto implique que este último sea poco importante.
 
-* *Fourth quadrant:* Students for whom professional development is moderately important, but whose profiles do not generate visibility on the social network.
+* *Cuarto cuadrante:* Estudiantes para quienes el desarrollo profesional es moderadamente importante, pero cuyos perfiles no generan visibilidad en la red social.
 
 ![Clusters](clusters.png)
 
