@@ -26,7 +26,7 @@ Este proyecto transforma comportamientos en  **Estrategia de Retención**.
 | **Conocedor Pasivo** | *“LinkedIn es importante, aunque todavía no lo uso activamente”* | Talleres prácticos - Incentivos para la interacción|
 
 ## 📊 Visualizaciones
-Wordcloud of comments from surveyed students:
+Nube de palabras de los comentarios de los estudiantes:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
 Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo
 Mapa de variables mas influyentes
