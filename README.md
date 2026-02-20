@@ -30,13 +30,13 @@ Nube de palabras de los comentarios de los estudiantes:
 ![WordCloud Comentarios](wordcloud_linkedin.png)
 Los estudiantes reconocen el valor de LinkedIn, pero en el largo plazo
 Mapa de variables mas influyentes
-![Mapa de Influencia de Variables](Influence_feature_Map.png)
+![Mapa de Influencia de Variables](mapa_de_influencias.png)
 Las variables (vectores) que apuntan en la misma dirección revelan:
 
 * *Primer cuadrante:* Estudiantes para quienes la exposición y la visibilidad son más importantes (a veces el doble) que su desarrollo profesional, sin que esto implique que este último sea poco importante.
 
 * *Cuarto cuadrante:* Estudiantes para quienes el desarrollo profesional es moderadamente importante, pero cuyos perfiles no generan visibilidad en la red social.
 
-![Clusters](Cluster_de_estudiantes.png)
+![Clusters](cluster_de_estudiantes.png)
 
 
